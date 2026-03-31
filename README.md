@@ -1,6 +1,6 @@
-<p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=21F746&vCenter=true&width=600&height=60&lines=Hi+visitor%2C+I'm+Berru.;Welcome+to+my+GitHub+profile!" alt="berrua" /></p>
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=21F746&vCenter=true&width=600&height=60&lines=Hi+visitor%2C+I'm+Berru.;Welcome+to+my+GitHub+profile!" alt="cyberru" /></p>
 
-![](https://komarev.com/ghpvc/?username=berrua&style=flat&color=21F746&label=Visitors) 
+![](https://komarev.com/ghpvc/?username=cyberru&style=flat&color=21F746&label=Visitors) 
 
 #
 
@@ -41,8 +41,8 @@
 <br>
 
 <div align="center">
-<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=cyberru&show_icons=true&locale=en&theme=transparent" alt="berrua" />
-<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberru&layout=compact&theme=transparent" alt=berrua />
-<img align="left" height="140em" src="https://github.com/cyberru/berrua/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
+<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=cyberru&show_icons=true&locale=en&theme=transparent" alt="cyberru" />
+<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberru&layout=compact&theme=transparent" alt=cyberru />
+<img align="left" height="140em" src="https://github.com/cyberru/cyberru/assets/68827388/8e353fbb-fb32-4f1c-8dab-17ce3ff1d367" />
 
 </div>
